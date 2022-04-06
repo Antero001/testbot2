@@ -1,1 +1,1 @@
-# testbot2
+# shinna-bot
